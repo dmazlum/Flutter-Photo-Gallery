@@ -6,7 +6,7 @@ Flutter Photo Gallery Sample App. (Gallery, Video Player, Firebase ADMob, API)
 
 Flutter Photo Gallery it's make with flutter framework. This is sample app for your knowledge.
 
-My project get photos name form my api normally photo gallery. But I added video player in app. Also, Google Ads will also appear when you pass 3 photos.
+My project get photo names from my api. I added video player in app. Also, Google Ads will also appear when you pass 3 photos.
 
 To use this package :
 
