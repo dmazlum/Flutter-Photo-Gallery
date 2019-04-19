@@ -13,16 +13,18 @@ To use this package :
 * add the dependency to your [pubspec.yaml](https://github.com/dmazlum/Flutter-Photo-Gallery/blob/master/pubspec.yaml) file.
 
 ```yaml
+
+Please read once all plugins tutorials before use.
+
   dependencies:
-  http
-  shared_preferences\n
-  transparent_image
-  photo_view
-  cached_network_image
-  firebase_admob
-  intl
-  connectivity
-  youtube_player_flutter (Not stable for IOS)
+    http
+    shared_preferences
+    transparent_image
+    photo_view
+    cached_network_image
+    firebase_admob    
+    connectivity
+    youtube_player_flutter (Not stable for IOS) please check github page
 ```
 
 ## Getting Started
